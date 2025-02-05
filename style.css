@@ -1,3 +1,9 @@
 body{
     background-color: rgba(72, 102, 100, 0.285);
 }
+
+.payment-form{
+    max-width: 600px; /*define um limite maximo*/
+    width: 100%; /*para manter responsivo*/
+    margin: auto; /*centraliza no meio*/
+}
